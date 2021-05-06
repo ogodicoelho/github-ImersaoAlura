@@ -1,2 +1,2 @@
-# github-demo
-A simple demo repository  to show the basic Git workflow
+# github-ImersaoAlura
+Repositório para as aulas de imersão de dados do Alura
